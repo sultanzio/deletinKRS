@@ -14,7 +14,7 @@
  
  
  ## How to use (Cara penggunaan)-->
- Windows User         : Install Xampp > Open CMD > cd C:/Xampp/php > php.exe delete.php
- Linux Debian Based   : sudo apt install php > git clone https://github.com/sultanzio/deletinKRS > cd deleteinKRS > php delete.php
+ - Windows User         : Install Xampp > Open CMD > cd C:/Xampp/php > php.exe delete.php
+ - Linux Debian Based   : sudo apt install php > git clone https://github.com/sultanzio/deletinKRS > cd deleteinKRS > php delete.php
  
 
