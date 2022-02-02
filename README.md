@@ -3,9 +3,9 @@
 ## Multi Brute KRS - sia.uty.ac.id
  
  ## root@baguslindu : ./Insecure
- Facebook    : https://fb.com/www.linux.org
- Github      : https://github.com/sultanzio
- Instagram   : @baguslindu_
+- Facebook    : https://fb.com/www.linux.org
+- Github      : https://github.com/sultanzio
+- Instagram   : @baguslindu_
  
  * Disclaimer : 
  Penggunaan illegal bukan tanggung jawab pembuat tools, alat ini dibuat karena bug yg saya 
